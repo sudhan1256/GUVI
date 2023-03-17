@@ -1,11 +1,14 @@
+:root{
+  background:#475d62;
+}
 .login-dark{
-        height:950px;
         background:#475d62;
         background-size:cover;
-        position:relative;
+        
       }
       
       .login-dark form {
+        margin-top:70px;
         max-width:420px;
         width:100%;
         background-color:#1e2833;
