@@ -1,8 +1,4 @@
-<script type="text/javascript">
-    document.getElementById("myButton").onclick = function () {
-        location.href = "profile.html";
-    };
-</script>
+
 $(document).ready(function() {
     $("#login-form").submit(function(event) {
         event.preventDefault();
